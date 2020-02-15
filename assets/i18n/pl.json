@@ -1,0 +1,23 @@
+{
+  "ROOT":{
+    "NAVBAR":{
+      "HOME":"Wprowadzenie",
+      "MAPS":"Mapa"
+    }
+  },
+  "MAPS":{
+    "LAYER":{
+      "BASE":{
+        "CARTO":{
+          "LIGHT": "Mapa wyblakła jasna - Carto",
+          "DARK": "Mapa wyblakła ciemna - Carto"
+        }
+      }
+    }
+  },
+  "PAGES": {
+      "HOME": {
+          "TITLE": "Apka działa !"
+      }
+  }
+}

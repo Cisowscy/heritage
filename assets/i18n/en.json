@@ -1,0 +1,23 @@
+{
+  "ROOT":{
+    "NAVBAR":{
+      "HOME":"Home",
+      "MAPS":"Maps"
+    }
+  },
+  "MAPS":{
+    "LAYER":{
+      "BASE":{
+        "CARTO":{
+          "LIGHT": "Map Carto Light",
+          "DARK": "Map Carto Dark"
+        }
+      }
+    }
+  },
+  "PAGES": {
+      "HOME": {
+          "TITLE": "App works !"
+      }
+  }
+}
